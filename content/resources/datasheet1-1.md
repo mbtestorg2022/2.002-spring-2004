@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: aacc981b-a167-de94-2676-9f9acac3c353
 resourcetype: Image
 title: datasheet1.jpg
 uid: 9e8a55d0-20be-d89f-633d-6db23df01ef8

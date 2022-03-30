@@ -456,11 +456,11 @@ Notch Effects in High-cycle Fatigue
 {{< tdopen >}}
 _Supporting Files  
   
-_lec23\_monocyclicro.m ([M](/courses/mechanical-engineering/2-002-mechanics-and-materials-ii-spring-2004/lecture-notes/lec23_monocyclicro.m))  
+_lec23\_monocyclicro.m ({{% resource_link "12308cd1-c96b-1e02-dbb5-407973faff5b" "M" %}})  
   
-lec23\_notchfatigue.m ([M](/courses/mechanical-engineering/2-002-mechanics-and-materials-ii-spring-2004/lecture-notes/lec23_notchfatigue.m))  
+lec23\_notchfatigue.m ({{% resource_link "378b1df2-91bd-eaa6-da20-039c24ecfdb0" "M" %}})  
   
-lec23\_strainlife.m ([M](/courses/mechanical-engineering/2-002-mechanics-and-materials-ii-spring-2004/lecture-notes/lec23_strainlife.m))
+lec23\_strainlife.m ({{% resource_link "1537edde-2a01-253a-bff5-dc553d6289e9" "M" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

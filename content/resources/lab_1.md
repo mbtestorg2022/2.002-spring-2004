@@ -11,6 +11,7 @@ description: 'The term project will serve as a capstone to the lab work performe
   project.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/2-002-mechanics-and-materials-ii-spring-2004/ada113f8904250a71dee71f0fdd8c20b_lab_1.pdf
 file_type: application/pdf
+parent_uid: aacc981b-a167-de94-2676-9f9acac3c353
 resourcetype: Document
 title: lab_1.pdf
 uid: ada113f8-9042-50a7-1dee-71f0fdd8c20b
